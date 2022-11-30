@@ -1,0 +1,320 @@
+﻿类别,p值,df,95%
+3D,0.7595623997054229,120,True
+API,0.3531649328512703,24,True
+API Management,1.0,0,False
+Accessibility,1.0,0,False
+Accounting,0.3656592502219386,90,True
+Accounts,1.0,0,False
+Activity Streams,1.0,0,False
+Addresses,1.0,1,True
+Adult,0.23810330555354436,6,True
+Advertising,0.9178086996747276,150,True
+African,1.0,0,False
+Aggregation,0.9318380883043559,456,True
+Air Travel,0.8707057169180211,210,True
+Algorithms,1.0,1,True
+Analytics,0.8651512112804953,880,True
+Animals,0.4717716161087487,133,True
+Application Development,0.9999945768568219,1536,True
+Applications,0.2559126015440892,48,True
+Art,0.9966843482116237,323,True
+Artificial Intelligence,0.22313016014842973,2,True
+Asia,1.0,0,False
+Astrology,0.22313016014842973,2,True
+Astronomy,0.3255499377506354,15,True
+Auctions,1.0,1517,True
+Audio,0.3125333661009506,195,True
+Australian,0.8130549999084319,36,True
+Auto,0.8515649321549962,650,True
+Automation,1.0,0,False
+Avatars,1.0,1,True
+Background,1.0,0,False
+Backup,1.0,0,False
+Bars,0.6949629742611338,4,True
+Beer,0.3044531593776482,24,True
+Belgian,1.0,0,False
+Big Data,1.0,0,False
+Bitcoin,0.9829142423606629,192,True
+Blockchain,1.0,0,False
+Blogging,1.0,8463,True
+Boating,0.6919374325914801,8,True
+Booking,0.9895895349108693,45,True
+Bookmarks,1.0,1260,True
+Books,0.9818834555803864,682,True
+Bots,0.5438131158833297,6,True
+Brazilian,0.2589612561135274,9,True
+Breweries,1.0,0,False
+Browsers,1.0,0,False
+Business,0.2715254164120826,216,True
+Calendars,0.9873753711133785,108,True
+Campaigns,0.26502591529736164,8,True
+Canadian,0.9999878181520637,52,True
+Catalogs,1.0,0,False
+Celebrities,0.36768468852884223,304,True
+Charity,0.8758736041911409,90,True
+Charts,0.9457286866803463,210,True
+Chat,0.380332466613976,513,True
+Check-In,1.0,0,False
+Chinese,0.5486891659888844,35,True
+Cities,1.0,0,False
+Classification,0.3934113297735524,55,True
+Classifieds,0.7893601048590434,110,True
+Clothing,1.0,0,False
+Cloud,0.6043493604981536,45,True
+Collaboration,0.21330930508341653,9,True
+Collecting,1.0,0,False
+Colors,0.6244094460837422,20,True
+Community,1.0,0,False
+Comparisons,0.7568703570557385,351,True
+Contacts,0.890176661191405,192,True
+Content,0.22313016014842982,2,True
+Content Management,0.33281967875071855,18,True
+Conversions,1.0,1,True
+Copyright,1.0,0,False
+Coronavirus,1.0,0,False
+Countries,1.0,0,False
+Coupons,0.2774621334592865,80,True
+Credit Cards,0.22313016014842982,2,True
+Crime,0.999119437531761,168,True
+Cryptocurrency,0.29702839792467406,36,True
+Currency,1.0,0,False
+Customer Relationship Management,0.2822363544462913,198,True
+Customer Service,0.22313016014842982,2,True
+Cycling,0.982862866938095,66,True
+Dashboards,1.0,0,False
+Data,0.5601522385534957,117,True
+Data Mining,1.0,0,False
+Database,0.7746058085771981,108,True
+Database-as-a-Service,1.0,0,False
+Dating,0.42803213649442756,135,True
+Demographics,0.26266556067232205,15,True
+Design,0.39993085079463303,28,True
+DevOps,1.0,0,False
+Dictionary,0.5792667629217123,24,True
+Directories,0.37836112445468434,36,True
+Discounts,0.4947590262873983,35,True
+Documents,0.5447384782176198,154,True
+Domains,0.29702839792467406,36,True
+Drawing,0.22313016014842982,2,True
+Economics,1.0,0,False
+Editing,0.22313016014842973,2,True
+Education,1.0,2703,True
+Electronic Signature,0.9999999999999978,979,True
+Email,0.10187021282625416,320,True
+Emergency,0.33376898370805486,12,True
+Energy,0.8199336116377209,40,True
+Engagement,0.5448701963214635,22,True
+England,0.8587145271160288,240,True
+Enterprise,0.4632367951444987,342,True
+Entertainment,0.537373627014392,351,True
+Environment,0.8333578931303017,240,True
+European,0.2872974951836458,4,True
+Events,0.9999999999999973,3053,True
+Family,0.32721109064341736,52,True
+Fashion,0.26146412994911117,3,True
+Fax,1.0,1,True
+Feedback,0.46379481562055863,27,True
+Feeds,0.9035584908021909,588,True
+File Sharing,1.0,0,False
+Financial,0.8031150520933585,1665,True
+Fitness,0.8229533737992727,529,True
+Fonts,1.0,0,False
+Food,0.9999999999999548,2160,True
+Forms,0.27706844336610725,6,True
+Forums,0.19914827347145564,4,True
+French,0.9799080364605552,24,True
+Funding,1.0,0,False
+Gambling,1.0,0,False
+Games,0.7518402356024136,2090,True
+Genealogy,1.0,0,False
+Geography,0.32905781372191756,10,True
+German,0.6031277799520904,24,True
+Gifts,0.7869474231094469,7,True
+Goals,1.0,1,True
+Government,0.9999744415963427,2501,True
+Graphics,1.0,0,False
+Greek,0.809485282519508,16,True
+Grocery,0.26502591529736164,8,True
+HTML5,0.3675273597655652,30,True
+Hacking,1.0,0,False
+Hardware,1.0,1,True
+Health,0.8787564398231302,814,True
+Healthcare,0.2600399224594336,24,True
+History,0.7668828188191488,96,True
+Holidays,0.854044010525322,30,True
+Home Automation,0.3007082761743609,12,True
+Hosting,0.2589612561135274,9,True
+Hotels,0.9879358263533058,380,True
+Housing,0.3672645452466071,24,True
+Humor,0.9732736405258767,3200,True
+Identity,0.22313016014842973,2,True
+Images,0.2833444241018065,171,True
+Indian,0.25183459795351754,36,True
+Intelligence,1.0,0,False
+Internet of Things,0.21330930508341653,9,True
+Invoicing,0.23810330555354436,6,True
+Italian,0.5987516330675617,3,True
+Italy,1.0,0,False
+Japanese,0.9560218784934773,119,True
+Jobs,0.9999983979029936,1700,True
+Keywords,0.19914827347145564,4,True
+Korean,1.0,0,False
+Language,0.3248021792708134,104,True
+Law,1.0,1,True
+Learning Management Systems,1.0,0,False
+Library,0.24143645097027544,12,True
+Lists,0.24227736746379938,90,True
+Localization,0.9999999574666152,1050,True
+Location,0.45565260432241894,18,True
+Loyalty,1.0,0,False
+Lyrics,0.6727152354974312,156,True
+Machine Learning,1.0,0,False
+Mail,1.0,0,False
+Management,1.0,1,True
+Mapping,1.0,238140,True
+Marine,0.39182348254493976,18,True
+Marketing,0.21699536664465532,325,True
+Marketplace,0.5142485966574863,45,True
+Mashups,1.0,0,False
+Math,1.0,0,False
+Media,0.2794130478623683,18,True
+Medical,0.5874082443319419,20,True
+Meetings,0.26146412994911117,3,True
+Meme,1.0,0,False
+Messaging,1.0,10320,True
+Metadata,1.0,0,False
+Mexican,0.5898270213105773,10,True
+Mobile,1.0,13530,True
+Monetization,1.0,1,True
+Monitoring,0.7716493434231607,147,True
+Mountains,1.0,0,False
+Movies,0.9999875254108526,1408,True
+Museums,0.30621891841327875,5,True
+Music,1.0,34104,True
+Natural Language Processing,0.4739455881863157,27,True
+Nature,1.0,0,False
+Networking,0.458346333167874,35,True
+New York City,0.9586445861110039,60,True
+News Services,0.9999999999999843,12932,True
+Non-Profit,0.6488215346183828,12,True
+None,0.2472249099988145,1150,True
+Nordic,0.6472318887822313,8,True
+Notes,0.665005542102029,1,True
+Notifications,0.9353021135274999,52,True
+Nutrition,1.0,0,False
+OAuth,1.0,0,False
+OCR,1.0,0,False
+Office,0.16952457136622645,56,True
+Open Data,0.31337427753639774,14,True
+Open Source,1.0,0,False
+Optimization,1.0,0,False
+Organization,1.0,0,False
+PDF,0.705096820723286,35,True
+Pakistani,1.0,0,False
+Panorama,1.0,0,False
+Parking,1.0,0,False
+Passports,1.0,0,False
+Patents,1.0,1,True
+Payments,0.3938755170882834,48,True
+Performance,1.0,0,False
+Personal Information Management,0.226962832847802,36,True
+Pets,0.19171037663135357,60,True
+Photos,1.0,36260,True
+Plugins,0.3202287363767991,24,True
+Podcasts,0.23810330555354436,6,True
+Police,1.0,0,False
+Politics,0.3007082761743605,12,True
+Polls,0.23810330555354436,6,True
+Postcards,1.0,0,False
+Prices,0.4698781977712068,39,True
+Printing,0.5382862397260121,98,True
+Privacy,1.0,1,True
+Products,0.2872974951836456,4,True
+Profiles,0.22313016014842982,2,True
+Project Management,0.46990384523183715,64,True
+Prototype,1.0,0,False
+Q&A,0.3706686588112807,60,True
+QR Codes,0.5036682742334984,4,True
+Quantified Self,1.0,0,False
+Ratings,0.5001986183281004,24,True
+Real Estate,1.0,3120,True
+Real Time,0.4115027381445022,120,True
+Recommendations,0.18629293780430037,231,True
+Recreation,0.6626272662068446,4,True
+Reference,0.9999969131398012,9200,True
+Refunds,0.26146412994911117,3,True
+Religion,0.3044531593776482,24,True
+Rentals,0.9948384338791837,150,True
+Reporting,0.3321740137872813,66,True
+Reputation,1.0,0,False
+Restaurants,0.3363939795123104,36,True
+SEO,0.5784631258316388,348,True
+Safety,0.7173723856778684,4,True
+Sales,0.23810330555354436,6,True
+Scheduling,1.0,0,False
+Science,0.9562715561485996,120,True
+Scottish,1.0,0,False
+Search,1.0,62480,True
+Security,0.3474396682659315,42,True
+Semantics,0.9103481507063742,360,True
+Sentiment,0.4711603120716421,24,True
+Shipping,0.9999977192822163,319,True
+Social,1.0,66008,True
+Software-as-a-Service,0.2254604595992703,132,True
+Solar,1.0,0,False
+Spam,1.0,1,True
+Spanish,0.9982200344852907,135,True
+Sports,1.0,7797,True
+Spreadsheets,0.4472536207147937,35,True
+Statistics,0.35761778421082774,132,True
+Stocks,0.26266556067232216,15,True
+Storage,1.0,840,True
+Streaming,0.15845579417975933,98,True
+Subtitles,1.0,0,False
+Summary,1.0,0,False
+Supernatural,1.0,0,False
+Support,1.0,0,False
+Surveys,0.3062189184132777,5,True
+Sustainability,0.425112741386006,81,True
+TV,0.6129566695119598,300,True
+Tasks,0.21330930508341653,9,True
+Taxes,1.0,0,False
+Teleconferencing,1.0,0,False
+Telephony,0.9997372553655388,4324,True
+Testing,0.26502591529736164,8,True
+Text,0.2650259152973615,8,True
+Text-to-Speech,1.0,0,False
+Tickets,0.28148987435603257,45,True
+Time,0.2872974951836458,4,True
+Time Tracking,0.31337427753639774,14,True
+Tools,0.9957959161105726,3212,True
+Tourism,0.29702839792467406,36,True
+Transcription,1.0,1,True
+Translation,0.5760802821644381,132,True
+Transportation,0.9999986289762086,1408,True
+Travel,1.0,20475,True
+Trivia,0.31158069893496654,21,True
+Tweets,0.7979262105413487,24,True
+URL Shortener,0.19914827347145564,4,True
+URLs,1.0,0,False
+Validation,1.0,0,False
+Verification,1.0,0,False
+Video,1.0,20812,True
+Visualizations,0.9844273025867988,4828,True
+VoIP,0.2794130478623683,18,True
+Voice,0.999999662527204,1148,True
+Voting,1.0,1,True
+Weapons,0.2872974951836456,4,True
+Weather,0.9987466450622323,2736,True
+Web Site Management,0.8235203170735964,310,True
+WebRTC,1.0,0,False
+Webcams,0.647231888782231,8,True
+Weddings,0.5438131158833297,6,True
+Wi-Fi,0.061968804416658904,6,True
+Widgets,0.9999999998573293,5025,True
+Wiki,0.9016265423172555,352,True
+Wine,0.962581202720767,60,True
+Words,1.0,0,False
+Zip Codes,1.0,0,False
+eBooks,0.28656713732126715,63,True
+eCommerce,1.0,51766,True
